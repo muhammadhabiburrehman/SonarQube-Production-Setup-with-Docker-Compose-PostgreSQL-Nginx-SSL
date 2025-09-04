@@ -522,7 +522,7 @@ Follow the prompts:
 
 ---
 
-## Step 9: Configure Firewall (Security)
+## (Optional)Step 9: Configure Firewall (Security)
 
 ```bash
 # Allow HTTP and HTTPS traffic
